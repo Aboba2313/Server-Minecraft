@@ -1,0 +1,89 @@
+h1 {
+    background-color: #A847F3;
+    border-radius: 52px;
+    margin: 3px;
+    padding: 8px;
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+}
+
+body {
+    background-color: #FFD473;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+
+p {
+    text-align: center;
+    background-color: #7FEFBF;
+    border-radius: 52px;
+    margin: 30px;
+    padding: 15px;
+    color: #A847F3;
+}
+
+h2 {
+    background-color: #A847F3;
+    border-radius: 52px;
+    margin: 15px;
+    padding: 8px;
+    color: white;
+    font-family: fantasy;
+}
+
+table {
+    color: #A847F3;
+    background-color: #7FEFBF;
+    border: 3px solid #A847F3;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td {
+    border: 3px solid #FFD473;
+    border-collapse: collapse;
+    font-size: 25px;
+}
+
+.aaa {
+    background-color: #43e24b;
+}
+
+.bbb {
+    font-size: 52px;
+}
+
+.ccc {
+    background-color: #FFD473;
+}
+
+.News {
+    font-size: 23px;
+}
+
+h3 {
+    background-color: #6352ff;
+    border-radius: 52px;
+    margin: 15px;
+    padding: 8px;
+    color: white;
+    font-family: fantasy;
+    text-align: center;
+    opacity: 0.80;
+}
+
+.podval {
+    width: 30px;
+}
+
+p a {
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+}
+
+.podvall {
+    background-color: #6352ff;
+    border-radius: 0px;
+}
