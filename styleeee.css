@@ -1,7 +1,7 @@
 h1 {
     background-color: #A847F3;
     border-radius: 52px;
-    margin: 3px;
+    margin: 15px 3px 15px 3px;
     padding: 8px;
     text-align: center;
     color: white;
@@ -85,36 +85,12 @@ p a {
     border-radius: 0px;
 }
 
-.news {
-    opacity: 1;
-    font-size: 23px;
+a {
+    background-color: #6352ff;
+    text-decoration: none;
+    color: #43e24b;
+    font-size: 40px;
+    margin: 10px 180px 10px 180px;
+    padding: 5px;
 }
 
-.newsa{
-    opacity: 0.9;
-    font-size: 23px;
-}
-.newsb{
-    opacity: 0.8;
-    font-size: 23px;
-}
-.newsc{
-    opacity: 0.7;
-    font-size: 23px;
-}
-.newsd{
-    opacity: 0.6;
-    font-size: 23px;
-}
-.newse {
-    opacity: 0.5;
-    font-size: 23px;
-}
-.newsf{
-    opacity: 0.4;
-    font-size: 23px;
-}
-.newsg {
-    opacity: 0.3;
-    font-size: 23px;
-}
