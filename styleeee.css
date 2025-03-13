@@ -85,12 +85,15 @@ p a {
     border-radius: 0px;
 }
 
-a {
-    background-color: #6352ff;
+nav a {
     text-decoration: none;
-    color: #43e24b;
+    color: #3d27ff;
     font-size: 40px;
-    margin: 10px 180px 10px 180px;
-    padding: 5px;
+    padding: 8px;
 }
 
+nav {
+    display: flex;
+    justify-content:space-around;
+    border-bottom:1px dashed #3d27ff ;
+}
